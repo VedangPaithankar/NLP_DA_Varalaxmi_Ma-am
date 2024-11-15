@@ -1,5 +1,6 @@
 # NLP-Driven News Processing API 
-(https://nlp-news-api.onrender.com)
+Website: https://nlp-news-api-1.onrender.com/
+API: https://nlp-news-api.onrender.com
 
 ## Project Overview
 
